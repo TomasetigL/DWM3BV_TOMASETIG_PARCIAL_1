@@ -1,0 +1,215 @@
+
+{
+"productos" : [
+ {
+    "titulo" : "Zelda: Breath of the Wild",
+    "plataforma" : "Nintendo Switch",
+    "fecha_lanzamiento" : "3 de marzo de 2017",
+    "precio" : "$60",
+    "imagen" : "images/zelda.png",
+    "descripcion" : "Olvida todo lo que sabes acerca de los juegos de la serie The Legend of Zelda. Explora y descubre un mundo lleno de aventuras en The Legend of Zelda: Breath of the Wild, una nueva saga que rompe los esquemas de la aclamada serie. Viaja a través de praderas y bosques, y alcanza cimas de montañas mientras descubres cómo cayó en la ruina el reino de Hyrule en esta emocionante aventura al aire libre. Ahora con Nintendo Switch, tu aventura será más libre y extensa que nunca. Lleva tu consola y vive una gran aventura como Link de la manera que más te guste.",
+    "edad" : "+12"
+ },
+ {
+
+    "titulo" : "God of War",
+    "plataforma" : "PlayStation 4",
+    "fecha_lanzamiento" : "20 de abril de 2018",
+    "precio" : "$50",
+    "imagen" : "images/god.png",
+    "descripcion" : "Kratos vuelve a ser padre. Como mentor y protector de Atreus, un hijo determinado a ganarse el respeto de su padre, se ve obligado a contener la ira que durante tanto tiempo lo ha caracterizado mientras recorre un mundo lleno de peligros junto a su muchacho.",
+    "edad" : "+18"
+},
+{
+
+   "titulo" : "Half Life 2",
+   "plataforma" : "PC",
+   "fecha_lanzamiento" : "16 de noviembre de 2004",
+   "precio" : "$10",
+   "imagen" : "images/half.png",
+   "descripcion" :"La historia del juego transcurre, aproximadamente, 20 años después de Half-Life. Gordon Freeman aceptó trabajar para G-Man tras derrotar a Nihilanth, tras lo cual fue puesto en un estado de hibernación, donde ha quedado congelado en el tiempo.",
+   "edad" : "+16"
+},
+{
+
+   "titulo" : "Grand Theft Auto V",
+   "plataforma" : "PlayStation 4",
+   "fecha_lanzamiento" : "17 de septiembre de 2013",
+   "precio" : "$20",
+   "imagen" : "images/gta.png",
+   "descripcion" :"Un joven estafador callejero, un ladrón de bancos retirado y un psicópata aterrador se ven involucrados con lo peor y más desquiciado del mundo criminal, del gobierno de los EE. UU. y de la industria del espectáculo, y tendrán que llevar a cabo una serie de peligrosos golpes para sobrevivir en una ciudad implacable en la que no pueden confiar en nadie. Y mucho menos los unos en los otros.",
+   "edad" : "+18"
+   
+},
+{
+
+   "titulo" : "Rim World",
+   "plataforma" : "PC",
+   "fecha_lanzamiento" : "4 de noviembre de 2013",
+   "precio" : "$25",
+   "imagen" : "images/rim.png",
+   "descripcion" : "El juego pone al jugador en el papel de gestor de una nueva colonia en un planeta del borde galáctico, donde los colonos deben sobrevivir a diversos eventos generados de manera aleatoria por la inteligencia artificial cuentacuentos.",
+   "edad" : "+16"
+   
+},
+{
+
+   "titulo" : "Halo 5",
+   "plataforma" : "Xbox",
+   "fecha_lanzamiento" : "27 de octubre de 2015",
+   "precio" : "$20",
+   "imagen" : "images/halo.png",
+   "descripcion" : "Halo 5: Guardians ofrece experiencias multijugador épicas que incluyen distintos modos, completas herramientas de construcción de niveles y un nuevo capítulo en la saga del Jefe Maestro. Y ahora, con Xbox One X, los jugadores pueden disfrutar de mejoras gráficas, resolución de hasta 4K y mayor fidelidad visual que hacen que el juego luzca mejor que nunca; todo ello manteniendo una tasa constante de 60 imágenes por segundo para conseguir la jugabilidad más fluida posible.",
+   "edad" : "+16"
+   
+},
+{
+
+   "titulo" : "Mario kart 8",
+   "plataforma" : "Nintendo Switch",
+   "fecha_lanzamiento" : "29 de mayo de 2014",
+   "precio" : "$20",
+   "imagen" : "images/mario.png",
+   "descripcion": "La jugabilidad principal sigue siendo la misma de las ediciones anteriores de Mario Kart. Incluye el mismo diseño de Karts de Mario Kart 7, se puede planear con ala deltas y conducir bajo el agua como en la entrega anterior. Las motocicletas introducidas en Mario Kart Wii reapareceren. El juego cuenta con mas de 30 personajes jugables.",
+   "edad" : "+3"
+   
+},
+{
+
+   "titulo" : "Fifa 23",
+   "plataforma" : "PlayStation 4",
+   "fecha_lanzamiento" : "27 de septiembre de 2022",
+   "precio" : "$40",
+   "imagen" : "images/fifa.png",
+   "descripcion" : "FIFA 23 es un videojuego de simulación de fútbol publicado por Electronic Arts. Es la trigésima entrega de la serie FIFA desarrollada por EA Sports, y la última entrega bajo el estandarte de FIFA",
+   "edad" : "+3"
+   
+},
+{
+
+   "titulo" : "Terraria",
+   "plataforma" : "PC",
+   "fecha_lanzamiento" : "16 de mayo de 2011",
+   "precio" : "$10",
+   "imagen" : "images/terraria.png",
+   "descripcion" : "Terraria es un videojuego de acción, aventura y de sandbox producido de forma independiente por el estudio Re-Logic. Tiene características tales como la exploración, la artesanía, la construcción de estructuras y el combate.​",
+   "edad" :"+12"
+   
+},
+{
+
+   "titulo" : "Bioshock Remastered",
+   "plataforma" : "PlayStation 4",
+   "fecha_lanzamiento" : "21 de agosto de 2007",
+   "precio" : "$10",
+   "imagen" : "images/bioshock.png",
+   "descripcion" : "BioShock es un Videojuego de disparos en primera persona con personalizaciones de juegos de rol, elementos de juego de sigilo y fragmentos de survival horror lo que hace al juego prácticamente un sandbox, muy similar a System Shock 2. El jugador toma el rol de Jack, el protagonista, que tiene como objetivo luchar a través de Rapture, al usar armas y plásmidos (modificaciones genéticas), a fin de completar objetivos. En ocasiones, el jugador puede optar por usar tácticas de sigilo para pasar inadvertido por cámaras de seguridad y torretas.",
+   "edad" : "+18"
+   
+},
+{
+
+   "titulo" : "Stardew Valley",
+   "plataforma" : "PC",
+   "fecha_lanzamiento" : "26 de febrero de 2016",
+   "precio" : "$5",
+   "imagen" : "images/stardew.png",
+   "descripcion" : "En Stardew Valley, el jugador toma el rol de un personaje que se encuentra atrapado en un trabajo de oficina y para escapar de él se va a vivir a la granja de su abuelo, la cual se encuentra en ruinas. La granja se encuentra ubicada en un lugar llamado Pueblo Pelícano. ",
+   "edad" : "+12"
+   
+},
+{
+
+   "titulo" : "Infamous Second Son",
+   "plataforma" : "PlayStation 4",
+   "fecha_lanzamiento" : "21 de marzo de 2014",
+   "precio" : "$5",
+   "imagen" : "images/infamous.png",
+   "descripcion" : "Rodeados por una sociedad que les teme, los superhumanos son cazados sin compasión y enjaulados por el Departamento de Protección Unificada (DUP). Sumérgete en una Seattle clausurada como Delsin Rowe, quién recientemente ha descubierto su poder de superhumano y que ahora puede luchar contra el opresivo DUP. Disfruta tu poder mientras decides cómo poner a prueba tus habilidades y sé testigo de los resultados de tus acciones que tienen un impacto en la ciudad y en las personas a tu alrededor.",
+   "edad" : "+16"
+   
+   
+},
+{
+
+   "titulo" : "Call of Duty Black Ops 3",
+   "plataforma" : "PlayStation 4",
+   "fecha_lanzamiento" : "5 de noviembre de 2015",
+   "precio" : "$20",
+   "imagen" : "images/bo3.png",
+   "descripcion" : "Bienvenido a 2065. Una nueva clase de soldados de operaciones encubiertas surge mientras que la línea que separa a la humanidad de la alta tecnología robótica propia de los conflictos armados se vuelve difusa.",
+   "edad" : "+18"
+   
+   
+},
+{
+
+   "titulo" : "Animal Crossing",
+   "plataforma" : "Nintendo Switch",
+   "fecha_lanzamiento" : "14 de abril de 2001",
+   "precio" : "$20",
+   "imagen" : "images/animalcrossing.png",
+   "descripcion" : "El jugador asume el papel de un personaje humano que se muda a una aldea rural poblada de animales antropomorfos, donde vive indefinidamente. El juego es abierto ya que no cuenta con objetivos definidos. Algunas actividades incluyen recolectar artículos, pescar, plantar flores, decorar la vivienda y socializar con los residentes de la aldea. Animal Crossing se caracteriza por el juego en tiempo real, utilizando el reloj y el calendario internos de la consola de videojuegos. Por lo tanto, el paso del tiempo afecta al mundo ficticio y a los eventos que transcurren en él.",
+   "edad" : "+3"
+   
+   
+},
+{
+
+   "titulo" : "Viva Piñata",
+   "plataforma" : "Xbox",
+   "fecha_lanzamiento" : "9 de noviembre de 2006",
+   "precio" : "$10",
+   "imagen" : "images/viva.png",
+   "descripcion" : "Atrae y domestica a tus piñatas favoritas. Hay más de 60 especies en estado salvaje en Isla Piñata.Personaliza todo, desde la hierba que pisas al sombrero que lleva puesto tu piñata.Bienvenido a Isla Piñata. ¡Disfruta de tu estancia!",
+   "edad" : "+3"
+   
+   
+},
+{
+
+   "titulo" : "Disco Elysium",
+   "plataforma" : "PC",
+   "fecha_lanzamiento" : "15 de octubre de 2019",
+   "precio" : "$10",
+   "imagen" : "images/disco.png",
+   "descripcion" : "Disco Elysium - The Final Cut es un revolucionario juego de rol de mundo abierto. Encarna a un detective con un conjunto único de habilidades a su disposición y un barrio entero que recorrer. Interroga personajes memorables, desentraña casos o acepta sobornos. Sé un héroe o un ser humano desastroso.",
+   "edad" : "+17"
+   
+   
+}
+
+ 
+  
+
+],
+"consolas" : [
+   {
+      "nombre" : "PlayStation 4",
+      "empresa" : "Sony",
+      "precio" : "$400",
+      "imagen" : "images/ps4.png"
+   },
+   {
+      "nombre" : "Nintendo Switch",
+      "empresa" : "Nintendo",
+      "precio" : "$300",
+      "imagen" : "images/switch.png"
+   },
+   {
+      "nombre" : "Xbox One",
+      "empresa" : "Microsoft",
+      "precio" : "$400",
+      "imagen" : "images/xbox.png"
+   },
+   {
+      "nombre" : "PC",
+      "empresa" : "El fabricante varia",
+      "precio" : "alrededor de $400",
+      "imagen" : "images/pc.png"
+   }
+
+
+
+]
+}
